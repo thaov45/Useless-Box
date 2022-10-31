@@ -1,5 +1,5 @@
 # Useless Box
-A useless machine that flips down a switch. Turns itself off, with 7 different movement effects.
+A smart useless machine that flips down a switch. Turns itself off, with 7 different movement effects.
 Update: Will add the sensor later once it arrives
 ---
 | Materials        | Note           | 
